@@ -1,0 +1,30 @@
+PERSONAL SPENDING TRACKER
+
+Data sources: {'Simulated': 31}
+Days in database: 31
+Total spending: EUR 447.82
+Average per recorded day: EUR 14.45
+Date range: 2026-10-01 to 2026-10-31
+
+CATEGORY TOTALS
+       category  total_eur  share_percent
+Food and drinks     289.50          64.65
+      Transport      75.60          16.88
+          Other      82.72          18.47
+
+WEEKDAY AND WEEKEND COMPARISON
+day_type  recorded_days  total_eur  average_eur
+ Weekday             22     291.43        13.25
+ Weekend              9     156.39        17.38
+
+WEEKLY TOTALS
+week_start  recorded_days  total_eur  average_eur  complete_week
+2026-09-28              4      65.54        16.39          False
+2026-10-05              7      93.35        13.34           True
+2026-10-12              7     106.44        15.21           True
+2026-10-19              7     102.20        14.60           True
+2026-10-26              6      80.29        13.38          False
+
+Simulated rows are invented examples, not measured personal spending.
+Averages use recorded days. Missing dates are not treated as zero.
+A complete week contains seven recorded days.
